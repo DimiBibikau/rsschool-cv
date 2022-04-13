@@ -1,2 +1,1 @@
-# rsschool-cv
-RS School JS Stage 1
+ http://DimiBibikau.github.io/rsschool-cv/cv
