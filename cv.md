@@ -1,7 +1,7 @@
 ![Alt-text](https://sun9-51.userapi.com/impf/hgC6tJejJxdj5CWfrShvwRFXAKUpoAAhhUHMNQ/Xr8UmuP97N4.jpg?size=227x275&quality=95&sign=0907269f52c110018d52a1a9069ba32e&type=album)
 ## **Dzmitry Bibikau**
 ***
-## Contacts:
+## Contacts
 #### **[Email](mailto:dmitry.bibikov@gmail.com)**
 #### **[Mobile phone](tel:+48-698-591-623)**
 #### **[LinkedIn](https://www.linkedin.com/in/dzmitry-bibikau-46859686/)**
@@ -9,7 +9,7 @@
 ## Short bio:
 I am a lifelong learner with a high capacity for self-education. I have proven myself to be motivated, engaged, and thoughtful, with experience in extracting insight from a range of sources, including big sets of data, presenting key takeouts in both accessible and academic forms. Highly educated, possessing a Bachelor’s, two Master’s, the latter of which involved heavily working with digital data.
 
-## Technical (IT) skills:
+## Technical (IT) skills
 + **HTML**, **CSS** and **JS** skills, obtained at the Rolling Scopes School JS / Front-end Stage 0 (RU)
 + **SQL** (Introductory course from Datacamp, [certificate link](https://www.datacamp.com/statement-of-accomplishment/course/ff06b0af475d1e8358ef049165bec7043778a099))
 + **Python** (Introductory course from Stepik, [certificate link](https://stepik.org/cert/1027555))
@@ -17,7 +17,7 @@ I am a lifelong learner with a high capacity for self-education. I have proven m
 + **Git** (Introductory course from Datacamp, [certificate link](https://www.datacamp.com/statement-of-accomplishment/course/c2f79f4066f44b883115b0f5ea6e998ae26ff150))
 + **Google BigQuery**
 
-## Code examples:
+## Code examples
 ### 7 kyu ‘Maximum Triplet Sum’ kata from CodeWars
 
 ```
@@ -43,7 +43,7 @@ for (let i = 0; i < array.length; i++) {
 
 ***
 
-## Work experience:
+## Work experience
 ### ‘New Site’ web studio (Bitrix24 CRM)
 I worked as a content manager at ‘New Site’ web design studio for three years (2010 - 2013) when I was a student. This job taught me to have a keen eye for detail and to always familiarise myself with the specifics of the work. This was one of several moments over my professional and academic career, that I was interacting with the ICT world and I found great pleasure in having this experience. Being a student at the time I had to multitask and effectively set my own priorities while working there.
 
@@ -56,14 +56,14 @@ As the off-shot of Minsk urban platform in 2020 I co-founded ‘Minsk urban data
 Working on the topic of digital data analysis involved making sense of records numbering in hundreds of thousands and led to an ongoing collaboration with the Opendata.by platform (text only available in Russian). This collaboration helped me hone my skills of building new constructive and cooperative working relationships with others, as well as maintaining them over time in the context of remote work, forced on us by the COVID-19 pandemic.
 
 ***
-## Education and training:
+## Education and training
 + 2021 - 2022 **JS / Front-end. Stage 0 (RU)** from Rolling Scopes School
 + 2017 – 2021 **MSc in Spatial Planning and Regional Studies** from EUROREG, University of Warsaw
 + 2014 – 2015 **MSc in Architecture and Urban planning** from Belarusian National Technical University
 + 2008 – 2014 **BA in Architecture and Urban planning** from Belarusian National Technical University
 
 ***
-## Foreign languages:
+## Foreign languages
 + **English** (C1 - C2, IELTS, CAE)
 + **Polish** (B2 - C1)
 + **German** (B2)
