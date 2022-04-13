@@ -45,7 +45,7 @@ for (let i = 0; i < array.length; i++) {
 
 ## Work experience:
 ### ‘New Site’ web studio (Bitrix24 CRM)
-I worked as a content manager at ‘New Site’ web studio for three years while at the university for my Bachelor’s degree (2010 - 2013). This job taught me to have a keen eye for detail and to always familiarise myself with the specific field of work. This was one of several moments over my professional and academic career, that I was interacting with the ICT world and I found great pleasure in having this experience. Despite clear weekly goals, being a student at the time I had to multitask and effectively set my own priorities while working there.
+I worked as a content manager at ‘New Site’ web design studio for three years (2010 - 2013) when I was a student. This job taught me to have a keen eye for detail and to always familiarise myself with the specifics of the work. This was one of several moments over my professional and academic career, that I was interacting with the ICT world and I found great pleasure in having this experience. Being a student at the time I had to multitask and effectively set my own priorities while working there.
 
 ### Minsk urban platform
 I founded this organisation around the time I finished my BA, in 2014, performing the roles of project manager, urban planning, and design coordinator.
