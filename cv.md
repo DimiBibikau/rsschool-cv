@@ -49,8 +49,8 @@ I worked as a content manager at ‘New Site’ web studio for three years while
 
 ### Minsk urban platform
 I founded this organisation around the time I finished my BA, in 2014, performing the roles of project manager, urban planning, and design coordinator.
-After spending several years in urban planning I have grown more and more fascinated with the promise of digital data analysis. I dedicated the last project with an urban NGO I helped co-found to digital data analysis, this time - to explore developments in post-Soviet large housing estates.
-As the off-shot of Minsk urban platform in 2020 I and a couple of my colleagues founded ‘Minsk urban data research group’. We used Google Maps grocery ratings to see if ill-rated shops can point at socially weaker areas of Minsk. Using data from 115.bel public utility integrator (Belarusian 19115.pl) we explored if the services in the field are provided equally good across the city.
+After spending several years in urban planning I have grown more and more fascinated with the promise of digital data analysis. I dedicated the last project with an urban NGO I helped co-found to digital data analysis exploring post-Soviet large housing estates.
+As the off-shot of Minsk urban platform in 2020 I co-founded ‘Minsk urban data research group’. We used Google Maps grocery ratings to see if ill-rated shops can point at socially weaker areas of Minsk. Using data from 115.bel public utility integrator (Belarusian 19115.pl) we explored if the services in the field are provided equally good across the city.
 
 ### Open data community
 Working on the topic of digital data analysis involved making sense of records numbering in hundreds of thousands and led to an ongoing collaboration with the Opendata.by platform (text only available in Russian). This collaboration helped me hone my skills of building new constructive and cooperative working relationships with others, as well as maintaining them over time in the context of remote work, forced on us by the COVID-19 pandemic.
