@@ -104,11 +104,11 @@ function maxTriSum(array){
     let sum = 0
     let counter = 0
   
-  for (let i = 0; i < array.length; i++) {
-    if (array[i] > array [i + 1] & counter < 3) {
+  for (let i = 0; i &lt; array.length; i++) {
+    if (array[i] > array [i + 1] & counter &lt; 3) {
       sum += array[i]
       counter ++
-    } else if ( i === array.length - 1 & counter < 3) {
+    } else if ( i === array.length - 1 & counter &lt; 3) {
       sum += array[i]
     }
   }
@@ -117,20 +117,6 @@ function maxTriSum(array){
   }
                                         </code>
                                     </pre>
-                                <!--<h3>7 kyu 'Find the missing element between two arrays' kata from CodeWars</h3>
-                                <pre>
-                                    <code>
-function findMissing(arr1, arr2) {
-    for (let i = 0; i < arr1.length; i++) {
-      arr1.sort();
-      arr2.sort();
-      if (arr1[i] !== arr2[i]) {
-          return arr1[i];
-      }
-  }
-  }
-                                    </code>
-                                </pre> -->
                                 <h3>Projects</h3>
                                 <ul>
                                     <li>The link to the <a href="https://dimibibikau.github.io/rsschool-cv/cv">Markdown CV task</a> from Rolling Scopes School JS / Front-end course (Stage 0 RU)</li>
