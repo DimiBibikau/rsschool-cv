@@ -1,0 +1,142 @@
+/* doc-wide stuff */
+html {
+    scroll-behavior: smooth;
+}
+
+a {
+    text-decoration: none;
+}
+h1, h2, p {
+
+    margin: 0;
+    padding: 0;
+}
+
+p {
+    line-height: 1.25;
+}
+
+ol,
+ul {
+    list-style: none;
+    padding: 0;
+    line-height: 1.5;
+}
+
+code {
+    display: block;
+}
+
+.wrapper {
+    margin-right: auto; /* 1 */
+    margin-left:  auto; /* 1 */
+
+    max-width: 960px; /* 2 */
+
+    padding-right: 10px; /* 3 */
+    padding-left:  10px; /* 3 */
+}
+
+.container {
+    color: black;
+    max-width: 100%;
+    padding: 0;
+    margin: 0 auto;
+    font-family: Arial;
+    font-weight: 400;
+    font-size: 25px;
+    font-style: normal;
+    text-decoration: none;
+}
+
+.section {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    border: 3px solid aqua;
+    border-radius: 15px;
+    padding: 25px;
+    margin-bottom: 25px;
+    font-size:75%;
+
+}
+
+@media (max-width: 575.98px) {
+    .section {
+        flex-direction: column;
+    }
+    .fact-item {
+        width: 100%;
+    }
+}
+
+.nav-list {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-content: center;
+    flex-wrap: wrap;
+    padding: 10px;
+    border: 5px;
+    border-color: aqua;
+    border-radius: 15px;
+    background-color: aqua;
+}
+
+.intro {
+    margin-bottom: 25px;
+}
+
+.avatar {
+    display: flex;
+    flex-direction: column;
+    padding-top: 15px;
+    margin-right: 15px;
+    padding: 0;
+}
+
+.profile-pic {
+    padding-bottom: 15px;
+}
+
+.main-facts {
+    display: flex;
+    flex-direction: column;
+    padding-bottom: 0;
+}
+
+.work-exp {
+    margin-right: 15px;
+}
+
+pre code {
+    width: fit-content;
+    font-size: 75%;
+}
+
+.fact-item {
+    padding: 15px;
+    margin-bottom: 15px;
+    border: 3px solid blueviolet;
+    border-radius: 15px;
+    background-color:lightsteelblue;
+}
+
+.logo {
+    height: 30px;
+}
+.footer {
+    height: 50px;
+    align-items: center;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    border: 3px solid aqua;
+    border-radius: 15px;
+    padding: 15px;
+    font-weight: bold;
+}
+.rs-logo {
+    width: 135px; 
+    height: 50px;
+}

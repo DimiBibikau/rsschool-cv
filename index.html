@@ -1,0 +1,168 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8" />
+        <meta name="keywords" content="CV, portfolio" />
+        <meta name="description" content="This is Dzmitry Bibikau's personal CV web page" />
+        <title>Dzmitry Bibikau CV web page</title>
+        <link rel="stylesheet" type="text/css" href="./style.css">
+        <link rel="icon" type="image/x-icon" href="https://iconape.com/wp-content/files/hr/12224/svg/random.svg">
+    </head>
+    <body>
+        <div class="wrapper">
+            <header class="header container">
+                <div class="block-nav">
+                    <nav class="nav">
+                        <ul class="nav-list">
+                            <li class="nav-list"><img src="https://iconape.com/wp-content/files/hr/12224/svg/random.svg" alt="Web page logo" class="logo"></li>
+                            <li class="nav-list"><a href="#contacts" class="nav-link">Contacts</a></li>
+                            <li class="nav-list"><a href="#bio" class="nav-link">Bio</a></li>
+                            <li class="nav-list"><a href="#skills" class="nav-link">Skills</a></li>
+                            <li class="nav-list"><a href="#code" class="nav-link">Code & Projects</a></li>
+                            <li class="nav-list"><a href="#experience" class="nav-link">Experience</a></li>
+                            <li class="nav-list"><a href="#education" class="nav-link">Education</a></li>
+                            <li class="nav-list"><a href="#languages" class="nav-link">Languages</a></li>
+                        </ul>
+                    </nav>
+                </div>
+            </header>
+            <main>
+                <div class="container">
+                    <div class="intro">
+                        <h1>Dzmitry Bibikau</h1>
+                        <p>Junior Front-end developer</p>
+                    </div>
+                    <section class="section" id="card">
+                        <div class="avatar fact-item">
+                            <img class="profile-pic" src="https://sun9-51.userapi.com/impf/hgC6tJejJxdj5CWfrShvwRFXAKUpoAAhhUHMNQ/Xr8UmuP97N4.jpg?size=227x275&quality=95&sign=0907269f52c110018d52a1a9069ba32e&type=album)" alt="Main avatar">
+                            <h2 id="contacts">Contacts</h2>
+                            <ul>
+                                <li><a href = "mailto:dmitry.bibikov@gmail.com">dmitry.bibikov@gmail.com</a></li>
+                                <li><a href = "tel:+48698591623">+48-698-591-623</a></li>
+                                <li><a href = "https://www.linkedin.com/in/dzmitry-bibikau-46859686/">LinkedIn</a></li>
+                            </ul>
+                        </div>
+                        <div class="main-facts">
+                            <div class="fact-item" id="bio">
+                                <h2>Short bio</h2>
+                                <p>I am a lifelong learner with a high capacity for self-education. I have proven myself to be motivated, engaged, and thoughtful, with experience in extracting insight from a range of sources, including big sets of data, presenting key takeouts in both accessible and academic forms.</p>
+                            </div>
+                            <div class="fact-item">
+                                <h2 id="skills">Skills</h2>
+                                <ul>
+                                    <li><b>HTML</b>, <b>CSS</b> and <b>JS</b> skills (RS School JS / Front-end Stage 0)</li>
+                                    <li><b>SQL</b>(Introductory course from Datacamp, <a href="https://www.datacamp.com/statement-of-accomplishment/course/ff06b0af475d1e8358ef049165bec7043778a099">certificate link</a>)</li>
+                                    <li><b>Python</b> (Introductory course from Stepik, <a href="https://stepik.org/cert/1027555">certificate link</a>)</li>
+                                    <li><b>Bash</b> (Introductory course from Datacamp, <a href="https://www.datacamp.com/statement-of-accomplishment/course/ba0db75f898f46bed022907060a131ff4f6f003a">certificate link</a>)</li>
+                                    <li><b>Git </b>(Introductory course from Datacamp, <a href="https://www.datacamp.com/statement-of-accomplishment/course/c2f79f4066f44b883115b0f5ea6e998ae26ff150">certificate link</a>)</li>
+                                    <li><b>Google BigQuery</b></li>
+                                </ul>
+                            </div>   
+                        </div>
+                    </section>
+                    <section class="section" id="expericence-main">
+                        <div class="left-exp">
+                            <div class="fact-item work-exp" id="experience">
+                                <h2>Work experience</h2>
+                                <ul>
+                                    <li>
+                                        <h3>‘New Site’ web studio (Bitrix24 CRM)</h3>
+                                        <p>I worked as a content manager at ‘New Site’ web design studio for three years (2010 - 2013) when I was a student. This job taught me to have a keen eye for detail and to always familiarise myself with the specifics of the work.
+                                        </p></li>
+                                    <li>
+                                        <h3>Minsk urban platform</h3>
+                                        <p>I founded this organisation around the time I finished my BA, in 2014, performing the roles of project manager, urban planning, and design coordinator.
+        After spending several years in urban planning I have grown more and more fascinated with the promise of digital data analysis.
+                                        </p>
+                                    </li>
+                                    <li>
+                                        <h3>Open data community</h3>
+                                        <p>This collaboration helped me hone my skills of building new constructive and cooperative working relationships with others, as well as maintaining them over time in the context of remote work, forced on us by the COVID-19 pandemic.
+                                        </p>
+                                    </li>
+                                </ul>
+                            </div>
+                            <div class="fact-item work-exp" id="languages">
+                                <h2>Foreign languages</h2>
+                                <ul>
+                                    <li><b>English</b> (C1 - C2, IELTS, CAE)</li>
+                                    <li><b>Polish</b> (B2 - C1)</li>
+                                    <li><b>German</b> (B2)</li>
+                                </ul>
+                            </div>
+                        </div>
+                        <div class="right-exp">
+                            <div class="fact-item" id="code">
+                                <h2>Code examples & Projects</h2>
+                                <h3>7 kyu ‘Maximum Triplet Sum’ kata from CodeWars</h3>
+                                    <pre>
+                                        <code>
+function maxTriSum(array){
+    array.sort(function (a, b) {
+                 return (b - a)
+      });
+    let sum = 0
+    let counter = 0
+  
+  for (let i = 0; i < array.length; i++) {
+    if (array[i] > array [i + 1] & counter < 3) {
+      sum += array[i]
+      counter ++
+    } else if ( i === array.length - 1 & counter < 3) {
+      sum += array[i]
+    }
+  }
+  
+    return sum;
+  }
+                                        </code>
+                                    </pre>
+                                <!--<h3>7 kyu 'Find the missing element between two arrays' kata from CodeWars</h3>
+                                <pre>
+                                    <code>
+function findMissing(arr1, arr2) {
+    for (let i = 0; i < arr1.length; i++) {
+      arr1.sort();
+      arr2.sort();
+      if (arr1[i] !== arr2[i]) {
+          return arr1[i];
+      }
+  }
+  }
+                                    </code>
+                                </pre> -->
+                                <h3>Projects</h3>
+                                <ul>
+                                    <li>The link to the <a href="https://dimibibikau.github.io/rsschool-cv/cv">Markdown CV task</a> from Rolling Scopes School JS / Front-end course (Stage 0 RU)</li>
+                                </ul>
+                            </div>
+                            <div class="fact-item" id="education">
+                                <h2>Education & Training</h2>
+                                <ul>
+                                    <li>2021 - 2022 <b>JS / Front-end. Stage 0 (RU)</b> from Rolling Scopes School</li>
+                                    <li>2017 – 2021 <b>MSc in Spatial Planning and Regional Studies</b> from EUROREG, University of Warsaw</li>
+                                    <li>2014 – 2015 <b>MSc in Architecture and Urban planning</b> from Belarusian National Technical University</li>
+                                    <li>2008 – 2014 <b>BA in Architecture and Urban planning</b> from Belarusian National Technical University</li>
+                                </ul>
+                            </div>
+                        </div>    
+                    </section>
+                </div>
+            </main>
+            <footer class="footer container">
+                <div id="github">
+                    <a href="https://github.com/DimiBibikau">GitHub</a>
+                </div>
+                <div>
+                    <p>April 2022</p>
+                </div>
+                <div class="rs-logo">
+                    <a href="https://rs.school/js/">
+                        <img src="https://rs.school/images/rs_school_js.svg" class="rs-logo" alt="Rolling Scopes School">
+                    </a>
+                </div> 
+            </footer>
+        </div>
+        
+    </body>
+</html>
