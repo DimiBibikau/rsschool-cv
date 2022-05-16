@@ -3,7 +3,7 @@
 ***
 ## Contacts
 #### **[Email](mailto:dmitry.bibikov@gmail.com)**
-#### **[Mobile phone](tel:+48-698-591-623)**
+#### **[Mobile phone](tel:+48-698-591-\**)**
 #### **[LinkedIn](https://www.linkedin.com/in/dzmitry-bibikau-46859686/)**
 ***
 ## Short bio:
