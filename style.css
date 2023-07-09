@@ -1,0 +1,127 @@
+* {
+    box-sizing: border-box;
+}
+
+:root {
+    --font-size: 12px;
+}
+
+html {
+    font-family: Poppins, Helvetica, sans-serif;
+    scroll-behavior: smooth;
+}
+
+h3, h4 {
+    margin: 0;
+}
+
+body {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    min-height: 100vh;
+    margin: 0;
+    padding: 0;
+}
+
+.wrapper {
+    width: 100%;
+    margin: 0 auto;
+}
+
+.navigation {
+    background: linear-gradient(to right, #12c2e9, #c471ed, #f64f59);
+    height: 50px;
+}
+
+.navigation-list {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+    list-style: none;
+    margin: 0;
+}
+
+.navigation-item a {
+    color: white;
+    text-decoration: none;
+    transition: color 0.5s;
+}
+
+.navigation-item a:hover {
+    color: lightgrey;
+}
+
+.navigation-link {
+    line-height: 50px;
+    transition: .3s;
+}
+
+.logo__link {
+    height: 30px;
+}
+
+.profile-pic {
+    border-radius: 50%;
+    height: 200px;
+}
+
+.intro {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+    padding: 20px;
+
+}
+
+.about {
+    display: flex;
+    flex-direction: column;
+    margin-left: 10px;
+}
+
+.cv-contents {
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    max-width: 100%;
+    margin: 0 auto;
+}
+
+.skills, .code, .education, .languages, .contacts, .experience, .education {
+    padding: 10px;
+    margin: 10px;
+    border: 3px solid;
+    border-image: linear-gradient(to right, #12c2e9, #c471ed, #f64f59) 1;
+}
+
+.skills, .code, .languages, .contacts, .experience {
+    width: calc(50% - 30px);
+}
+
+.experience, .education {
+    width: calc(100% - 20px);
+}
+
+.footer-navigation {
+    height: 50px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+    background: linear-gradient(to left, #12c2e9, #c471ed, #f64f59);
+}
+
+footer a{
+    color: white;
+}
+
+footer a {
+    color: white;
+}
+
+footer p {
+    color: white;
+}
