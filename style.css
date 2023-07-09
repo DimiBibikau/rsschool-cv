@@ -15,6 +15,10 @@ h3, h4 {
     margin: 0;
 }
 
+a {
+    text-decoration: none;
+}
+
 body {
     display: flex;
     flex-direction: column;
@@ -73,7 +77,6 @@ body {
     justify-content: space-around;
     align-items: center;
     padding: 20px;
-
 }
 
 .about {
@@ -105,17 +108,38 @@ body {
     width: calc(100% - 20px);
 }
 
+@media (max-width:768px){
+    .navigation {
+        height: 100px;
+    }
+
+    .navigation-list {
+        flex-wrap: wrap;
+        margin:0;
+        padding: 0;
+    }
+
+    .navigation-item {
+        margin-left: 5px;
+    }
+
+    .intro {
+        flex-direction: column;
+        padding: 10px;
+    }
+    .skills, .code, .languages, .contacts, .experience {
+        width: calc(100% - 10px);
+    }
+}
+
 .footer-navigation {
+    color: white;
     height: 50px;
     display: flex;
     flex-direction: row;
     justify-content: space-around;
     align-items: center;
     background: linear-gradient(to left, #12c2e9, #c471ed, #f64f59);
-}
-
-footer a{
-    color: white;
 }
 
 footer a {
