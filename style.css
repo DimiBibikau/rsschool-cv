@@ -119,6 +119,10 @@ body {
         padding: 0;
     }
 
+    .navigation-item {
+        margin-left: 5px;
+    }
+
     .intro {
         flex-direction: column;
         padding: 10px;
