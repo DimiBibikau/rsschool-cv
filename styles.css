@@ -12,6 +12,10 @@ html {
     /* font-weight: 900; */
 }
 
+h3, h4 {
+    margin: 0;
+}
+
 body {
     display: flex;
     flex-direction: column;
@@ -85,14 +89,17 @@ body {
     margin: 0 auto;
 }
 
-.skills, .code, .experience, .education, .languages, .contacts  {
+.skills, .code, .education, .languages, .contacts, .experience, .education  {
     width: 47%;
-    border-radius: 5px;
+    border-radius: 15px;
     border: 3px solid red;
-    border-right-width: ;
     padding: 10px;
     margin: 10px;
     border-image: linear-gradient(to right, #12c2e9, #c471ed, #f64f59) 5;
+}
+
+.experience, .education {
+    width: 97%;
 }
 
 .footer-navigation {
