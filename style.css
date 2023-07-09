@@ -132,6 +132,28 @@ body {
     }
 }
 
+@media (max-width:560px){
+    .navigation {
+        height: 100px;
+    }
+
+    .a {
+        margin:10px;
+        padding: 10px;
+    }
+
+    .intro {
+        flex-direction: column;
+        padding: 10px;
+    }
+
+    .profile-pic {
+        border-radius: 10px;
+        width: calc(100% - 10px);
+        height: 100%;
+    }
+}
+
 .footer-navigation {
     color: white;
     height: 50px;
